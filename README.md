@@ -41,11 +41,13 @@ A lightweight, non-destructive Python command-line utility that splits Markdown 
    - **Prefix:** Add a prefix for the exported files or press `Enter` to skip.
    - **Continue:** When the split is complete, type `y` to process another document, or `n` to quit.
 
+
+
 ---
 
 **License**
 
-issuePhorge is licensed under the GNU General Public License v3.0 (GPL-3.0). This means you can freely use, modify, and distribute this software, provided that:
+Licensed under the GNU General Public License v3.0 (GPL-3.0). This means you can freely use, modify, and distribute this software, provided that:
 
 - You disclose the source code of your modifications
 - You license your modifications under the same GPL-3.0 license
